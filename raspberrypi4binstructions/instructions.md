@@ -16,4 +16,6 @@ Step 2: Brute force (if necessary.) Most times: the password is some variation o
 
 Additionally, you might need to brute force the username. So, yeah...might take a literal hour.
 
-Step 3: Now, for Raspberry Pi 4b, you might also need a breadboard, some buttons, as well as (optionally) an [LCD 16x2 monitor](https://www.amazon.com/16x2-lcd-display/s?k=16x2+lcd+display), and a couple wires. You could find this in either Mr. Baker's room (or the next door room). 
+Step 3: Now, for Raspberry Pi 4b, you might also need a breadboard, some buttons, as well as (optionally) an [LCD 16x2 monitor](https://www.amazon.com/16x2-lcd-display/s?k=16x2+lcd+display), and a couple wires. You could find this in either Mr. Baker's room (or the next door room). You will also need to know about the [GPiO module](https://pypi.org/project/RPi.GPIO) in Python. There are also a few different videos that help on the
+
+Step 4: 
