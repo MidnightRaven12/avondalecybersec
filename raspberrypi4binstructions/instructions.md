@@ -10,4 +10,4 @@ In this tutorial, we are going to compile all of the links for you, and give you
 
 Step 1: Actually, know how to access the Raspberry Pi. 
 
-There is a think that is known as a: [https://www.amazon.com/UGREEN-Adapter-Ethernet-Compatible-Raspberry/dp/B06WWQ7KLV](micro HDMI) 
+There is a think that is known as a: [micro HDMI to HDMI converter](https://www.amazon.com/UGREEN-Adapter-Ethernet-Compatible-Raspberry/dp/B06WWQ7KLV) 
