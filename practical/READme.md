@@ -22,7 +22,7 @@ Here are a few miscellaneous ways to get information as well.
 
 4. If you want to get into the journalism route, you should look at a few things such as the [Secretary of State](https://www.lendingtree.com/business/secretary-of-state-business-search/) in order to look for businesses and their owners as well, or using internet archive in order to revert a site to before something was deleted. For instance, one can use the archive to look at an entirely different version of YouTube, where popular tech youtuber [Marquees Brownlee did go 96 MPH in a 35 MPH school zone!](https://www.youtube.com/watch?v=Pg09cyX2wss).
 
-5. Lastly, many different courses and resources can be found online based on 
+5. Lastly, many different courses and resources can be found online based on [MIT Open Courseware](https://www.youtube.com/@mitocw), as well as [Harvard](https://www.youtube.com/@harvard/playlists), and so on and so forth.
 
 *Remark: You can get into the law profession. In fact, you might actually benefit from an advanced knowledge of cybersecurity (or really any field in general). The legal profession spans far more than just people who like to debate over rules. Instead, the legal profession could span over different fields such as the art field (think copyrights, and defamation lawsuits, and Drake). As well as those that are relating to say health (say fighting against health insurance in order to get their payments, as well as helping people interpret their health insurance policies) And you having a niche might make you stand out.*
 
